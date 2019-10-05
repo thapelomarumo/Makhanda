@@ -2731,13 +2731,13 @@ textarea.w-select {
         margin-left: 0px;
     }
     .go-back-wrapper {
-        left: auto;
+        left: 0px;
         top: auto;
-        right: 45%;
-        bottom: 2%;
+        right: 0px;
+        bottom: 5%;
         width: 50px;
         height: 50px;
-        margin-right: 10px;
+        margin-right: auto;
     }
     .info-container {
         padding-right: 50px;
@@ -2816,12 +2816,13 @@ textarea.w-select {
         font-size: 18px;
     }
     .go-back-wrapper {
-        left: auto;
+        left: 0px;
         top: auto;
-        right: 0%;
-        bottom: 2%;
-        width: 34px;
-        height: 34px;
+        right: 0px;
+        bottom: 5%;
+        width: 50px;
+        height: 50px;
+        margin-right: auto;
     }
     .info-container {
         padding-right: 10px;
